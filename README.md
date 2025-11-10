@@ -71,7 +71,7 @@
 
 ## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/yashwant_lc?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
 </div>
 
@@ -94,7 +94,7 @@
       <td>C++, Java, Python, Rust</td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ## 📂 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
