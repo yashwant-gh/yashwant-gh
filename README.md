@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, I'm Raj Singh</div>
+# <div align="center">👋 Hello, I'm Yashwant</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Designer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 <hr>
 ## 🚀 About Me
 
-🔭 I'm currently working on **Akademix**  
+🔭 I'm currently working on **LokYatra**  
 🌱 Learning **MERN & DSA**  
 💬 Ask me about **Backend, Coding, Critical thinking**  
-📫 Reach me at: **raj85singh95@gmail.com**  
+📫 Reach me at: **yashwantkaushik2003@gmail.com**  
 <hr>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟
 
@@ -58,28 +58,28 @@
 ## 📊 𝟮𝟬𝟮𝟱 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsingh73&theme=github_dark" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwant-gh&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsingh73&show_icons=true&theme=radical&border_radius=10&rank_icon=github" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwant-gh&show_icons=true&theme=radical&border_radius=10&rank_icon=github" height="170px" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh73&layout=compact&theme=github_dark&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwant-gh&layout=compact&theme=github_dark&hide_border=true" width="450"/>
 </div>
 
 ## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/raj_73singh_55?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
+  <img src="https://leetcard.jacoblin.cool/yashwant_lc?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td><strong>Profile:</strong></td>
-      <td><a href="https://leetcode.com/raj_73singh_55/">LeetCode Profile</a></td>
+      <td><a href="https://leetcode.com/yashwant_lc/">LeetCode Profile</a></td>
     </tr>
     <tr>
       <td><strong>Problems Solved:</strong></td>
@@ -98,14 +98,14 @@
 
 ## 📂 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
-<div align="center">
-  <a href="https://github.com/rajsingh73/javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsingh73&repo=javascript&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
+<!-- <div align="center">
+  <a href="https://github.com/yashwant-gh/javascript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwant-gh&repo=javascript&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
   </a>
-  <a href="https://github.com/rajsingh73/ums">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsingh73&repo=ums&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
+  <a href="https://github.com/yashwant-gh/ums">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwant-gh&repo=ums&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
   </a>
-</div>
+</div> -->
 
 ## ⚙️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗧𝗢𝗢𝗟𝗦
 
@@ -120,13 +120,13 @@
 ## ⚡ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
 
 <div align="center">
-  <a href="https://github.com/rajsingh73" target="_blank">
+  <a href="https://github.com/yashwant-gh" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/raj-singh-a1a819283/" target="_blank">
+  <a href="https://www.linkedin.com/in/yashwant-kaushik/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://leetcode.com/raj_73singh_55/" target="_blank">
+  <a href="https://leetcode.com/yashwant_lc/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
   </a>
 </div>
@@ -135,7 +135,7 @@
   <a href="https://raj-singh.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-%231DA1F2.svg?&style=for-the-badge&logo=vercel&logoColor=white&color=071A2C" alt="Portfolio" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:raj85singh95@gmail.com">
+  <a href="mailto:yashwantkaushik2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
