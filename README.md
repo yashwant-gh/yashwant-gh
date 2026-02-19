@@ -132,7 +132,7 @@
 </div>
 
 <div align="center">
-  <a href="https://raj-singh.dev" target="_blank">
+  <a href="https://yashwant-gh.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-%231DA1F2.svg?&style=for-the-badge&logo=vercel&logoColor=white&color=071A2C" alt="Portfolio" style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:yashwantkaushik2003@gmail.com">
