@@ -69,32 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwant-gh&layout=compact&theme=github_dark&hide_border=true" width="450"/>
 </div>
 
-## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
-
- <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yashwant_lc?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Profile:</strong></td>
-      <td><a href="https://leetcode.com/yashwant_lc/">LeetCode Profile</a></td>
-    </tr>
-    <tr>
-      <td><strong>Problems Solved:</strong></td>
-      <td>300+</td>
-    </tr>
-    <tr>
-      <td><strong>Contest Rating:</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Languages:</strong></td>
-      <td>C++, Java, Python, Rust</td>
-    </tr>
-  </table>
-</div> 
 
 ## 📂 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
